@@ -7,13 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9E0036F31B2F3503001412FF /* SoundArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E0036F21B2F3503001412FF /* SoundArray.m */; };
+		9E0036F41B2F3503001412FF /* SoundArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E0036F21B2F3503001412FF /* SoundArray.m */; };
+		9E352BAB1BBE115B009088AC /* AllStarWithSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E352BAA1BBE115B009088AC /* AllStarWithSearchViewController.m */; };
+		9E5F460C1BBC0EA20065276D /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9E5F460B1BBC0EA20065276D /* data.plist */; };
+		9EDDBBB91BBBFB32007E3BBE /* ChooseAndRebelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EDDBBB81BBBFB32007E3BBE /* ChooseAndRebelViewController.m */; };
+		9EDDBBBC1BBBFBA1007E3BBE /* EnemyGroupData.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EDDBBBB1BBBFBA1007E3BBE /* EnemyGroupData.m */; };
+		9EDDBBC01BBC0950007E3BBE /* AllStars.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EDDBBBF1BBC0950007E3BBE /* AllStars.m */; };
+		9EDDBBC31BBC09F5007E3BBE /* AllStarsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EDDBBC21BBC09F5007E3BBE /* AllStarsTableViewController.m */; };
+		9EFABC551BBCB70A005E4CFB /* RebelSuggestion.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EFABC541BBCB70A005E4CFB /* RebelSuggestion.m */; };
 		9EFFC0051B2F325700E3D903 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EFFC0041B2F325700E3D903 /* main.m */; };
 		9EFFC0081B2F325700E3D903 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EFFC0071B2F325700E3D903 /* AppDelegate.m */; };
 		9EFFC00B1B2F325700E3D903 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EFFC00A1B2F325700E3D903 /* ViewController.m */; };
 		9EFFC00E1B2F325700E3D903 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EFFC00C1B2F325700E3D903 /* Main.storyboard */; };
 		9EFFC0101B2F325700E3D903 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EFFC00F1B2F325700E3D903 /* Images.xcassets */; };
 		9EFFC0131B2F325700E3D903 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EFFC0111B2F325700E3D903 /* LaunchScreen.xib */; };
-		9EFFC01F1B2F325700E3D903 /* Dota_HelperTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EFFC01E1B2F325700E3D903 /* Dota_HelperTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +35,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9E0036F11B2F3503001412FF /* SoundArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoundArray.h; sourceTree = "<group>"; };
+		9E0036F21B2F3503001412FF /* SoundArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoundArray.m; sourceTree = "<group>"; };
+		9E352BA91BBE115B009088AC /* AllStarWithSearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllStarWithSearchViewController.h; sourceTree = "<group>"; };
+		9E352BAA1BBE115B009088AC /* AllStarWithSearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllStarWithSearchViewController.m; sourceTree = "<group>"; };
+		9E5F460B1BBC0EA20065276D /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = data.plist; sourceTree = "<group>"; };
+		9EDDBBB71BBBFB32007E3BBE /* ChooseAndRebelViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChooseAndRebelViewController.h; sourceTree = "<group>"; };
+		9EDDBBB81BBBFB32007E3BBE /* ChooseAndRebelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChooseAndRebelViewController.m; sourceTree = "<group>"; };
+		9EDDBBBA1BBBFBA1007E3BBE /* EnemyGroupData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnemyGroupData.h; sourceTree = "<group>"; };
+		9EDDBBBB1BBBFBA1007E3BBE /* EnemyGroupData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnemyGroupData.m; sourceTree = "<group>"; };
+		9EDDBBBE1BBC0950007E3BBE /* AllStars.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllStars.h; sourceTree = "<group>"; };
+		9EDDBBBF1BBC0950007E3BBE /* AllStars.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllStars.m; sourceTree = "<group>"; };
+		9EDDBBC11BBC09F5007E3BBE /* AllStarsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllStarsTableViewController.h; sourceTree = "<group>"; };
+		9EDDBBC21BBC09F5007E3BBE /* AllStarsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllStarsTableViewController.m; sourceTree = "<group>"; };
+		9EFABC531BBCB70A005E4CFB /* RebelSuggestion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RebelSuggestion.h; sourceTree = "<group>"; };
+		9EFABC541BBCB70A005E4CFB /* RebelSuggestion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RebelSuggestion.m; sourceTree = "<group>"; };
 		9EFFBFFF1B2F325700E3D903 /* Dota Helper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dota Helper.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EFFC0031B2F325700E3D903 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9EFFC0041B2F325700E3D903 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -38,8 +61,6 @@
 		9EFFC00F1B2F325700E3D903 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		9EFFC0121B2F325700E3D903 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		9EFFC0181B2F325700E3D903 /* Dota HelperTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dota HelperTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9EFFC01D1B2F325700E3D903 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9EFFC01E1B2F325700E3D903 /* Dota_HelperTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Dota_HelperTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,11 +81,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9EDDBBB61BBBFACF007E3BBE /* ChooseAndRebel */ = {
+			isa = PBXGroup;
+			children = (
+				9EDDBBB71BBBFB32007E3BBE /* ChooseAndRebelViewController.h */,
+				9EDDBBB81BBBFB32007E3BBE /* ChooseAndRebelViewController.m */,
+				9EDDBBBA1BBBFBA1007E3BBE /* EnemyGroupData.h */,
+				9EDDBBBB1BBBFBA1007E3BBE /* EnemyGroupData.m */,
+				9EFABC531BBCB70A005E4CFB /* RebelSuggestion.h */,
+				9EFABC541BBCB70A005E4CFB /* RebelSuggestion.m */,
+			);
+			name = ChooseAndRebel;
+			sourceTree = "<group>";
+		};
+		9EDDBBBD1BBC0925007E3BBE /* AllStars */ = {
+			isa = PBXGroup;
+			children = (
+				9EDDBBBE1BBC0950007E3BBE /* AllStars.h */,
+				9EDDBBBF1BBC0950007E3BBE /* AllStars.m */,
+				9EDDBBC11BBC09F5007E3BBE /* AllStarsTableViewController.h */,
+				9EDDBBC21BBC09F5007E3BBE /* AllStarsTableViewController.m */,
+				9E352BA91BBE115B009088AC /* AllStarWithSearchViewController.h */,
+				9E352BAA1BBE115B009088AC /* AllStarWithSearchViewController.m */,
+			);
+			name = AllStars;
+			sourceTree = "<group>";
+		};
 		9EFFBFF61B2F325700E3D903 = {
 			isa = PBXGroup;
 			children = (
+				9E5F460B1BBC0EA20065276D /* data.plist */,
 				9EFFC0011B2F325700E3D903 /* Dota Helper */,
-				9EFFC01B1B2F325700E3D903 /* Dota HelperTests */,
 				9EFFC0001B2F325700E3D903 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -81,6 +128,10 @@
 		9EFFC0011B2F325700E3D903 /* Dota Helper */ = {
 			isa = PBXGroup;
 			children = (
+				9EDDBBBD1BBC0925007E3BBE /* AllStars */,
+				9EDDBBB61BBBFACF007E3BBE /* ChooseAndRebel */,
+				9E0036F11B2F3503001412FF /* SoundArray.h */,
+				9E0036F21B2F3503001412FF /* SoundArray.m */,
 				9EFFC0061B2F325700E3D903 /* AppDelegate.h */,
 				9EFFC0071B2F325700E3D903 /* AppDelegate.m */,
 				9EFFC0091B2F325700E3D903 /* ViewController.h */,
@@ -98,23 +149,6 @@
 			children = (
 				9EFFC0031B2F325700E3D903 /* Info.plist */,
 				9EFFC0041B2F325700E3D903 /* main.m */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		9EFFC01B1B2F325700E3D903 /* Dota HelperTests */ = {
-			isa = PBXGroup;
-			children = (
-				9EFFC01E1B2F325700E3D903 /* Dota_HelperTests.m */,
-				9EFFC01C1B2F325700E3D903 /* Supporting Files */,
-			);
-			path = "Dota HelperTests";
-			sourceTree = "<group>";
-		};
-		9EFFC01C1B2F325700E3D903 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				9EFFC01D1B2F325700E3D903 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -168,6 +202,7 @@
 				TargetAttributes = {
 					9EFFBFFE1B2F325700E3D903 = {
 						CreatedOnToolsVersion = 6.3.2;
+						DevelopmentTeam = 72C7JZ454D;
 					};
 					9EFFC0171B2F325700E3D903 = {
 						CreatedOnToolsVersion = 6.3.2;
@@ -201,6 +236,7 @@
 			files = (
 				9EFFC00E1B2F325700E3D903 /* Main.storyboard in Resources */,
 				9EFFC0131B2F325700E3D903 /* LaunchScreen.xib in Resources */,
+				9E5F460C1BBC0EA20065276D /* data.plist in Resources */,
 				9EFFC0101B2F325700E3D903 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -219,9 +255,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E352BAB1BBE115B009088AC /* AllStarWithSearchViewController.m in Sources */,
+				9EDDBBBC1BBBFBA1007E3BBE /* EnemyGroupData.m in Sources */,
 				9EFFC00B1B2F325700E3D903 /* ViewController.m in Sources */,
+				9EFABC551BBCB70A005E4CFB /* RebelSuggestion.m in Sources */,
+				9EDDBBC01BBC0950007E3BBE /* AllStars.m in Sources */,
 				9EFFC0081B2F325700E3D903 /* AppDelegate.m in Sources */,
 				9EFFC0051B2F325700E3D903 /* main.m in Sources */,
+				9EDDBBC31BBC09F5007E3BBE /* AllStarsTableViewController.m in Sources */,
+				9E0036F31B2F3503001412FF /* SoundArray.m in Sources */,
+				9EDDBBB91BBBFB32007E3BBE /* ChooseAndRebelViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -229,7 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9EFFC01F1B2F325700E3D903 /* Dota_HelperTests.m in Sources */,
+				9E0036F41B2F3503001412FF /* SoundArray.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -349,9 +392,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72C7JZ454D;
 				INFOPLIST_FILE = "Dota Helper/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -359,9 +405,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72C7JZ454D;
 				INFOPLIST_FILE = "Dota Helper/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -418,6 +467,7 @@
 				9EFFC0241B2F325700E3D903 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9EFFC0251B2F325700E3D903 /* Build configuration list for PBXNativeTarget "Dota HelperTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +476,7 @@
 				9EFFC0271B2F325700E3D903 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

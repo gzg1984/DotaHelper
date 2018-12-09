@@ -1,8 +1,8 @@
 //
 //  main.m
-//  Dota Helper
+//  lesson2
 //
-//  Created by 高志刚 on 15/6/16.
+//  Created by 高志刚 on 15/5/29.
 //  Copyright (c) 2015年 高志刚. All rights reserved.
 //
 
